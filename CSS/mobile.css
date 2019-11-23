@@ -2,10 +2,14 @@
     float: none;
     text-align: center;
 }
+.logo
 
 #navbar ul, #navbar ul li {
     float: none;
+    
 }
+
+
 
 #navbar ul li a {
     padding: 5px;

@@ -121,6 +121,7 @@ p {
 
 #navbar ul li {
     float: left;
+    list-style: none;
 }
 
 #navbar ul li a {
